@@ -1,5 +1,8 @@
 # Hi there, I'm Andre Regino! 👋
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=regino-pan-a-i)](https://git.io/streak-stats)
+
+
 ## 💻 About Me
 I'm a passionate **Software Engineering** student at **Brigham Young University - Idaho** with a **3.95 GPA**, graduating in **December 2025**. I love building applications that solve real-world problems and enhance user experiences. My expertise spans full-stack web development, mobile app development, and data analytics.
 
@@ -39,6 +42,5 @@ I'm currently seeking **Software Engineering internships** where I can apply my 
 ## 📫 Let's Connect!
 - 📩 Email: [reginopanai@gmail.com](mailto:reginopanai@gmail.com)
 - 🔗 LinkedIn: [andre-regino](https://www.linkedin.com/in/andre-regino-1636ip/)
-- 💻 GitHub: [YourGitHubUsername](https://github.com/YourGitHubUsername)
 
 Let's build something awesome together! 🚀

@@ -7,7 +7,16 @@ I'm a passionate **Software Engineering** student at **Brigham Young University 
 ## 🚀 Technical Skills
 - **Languages**: Python, C++, JavaScript, Swift, HTML, CSS, SQL  
 - **Frameworks & Tools**: Node.js, MongoDB, MERN Stack, Selenium, Power BI, ArcGIS, OpenGL  
-- **Concepts**: Object-Oriented Programming, Multithreading, API Integration, Data Mining  
+- **Concepts**: Object-Oriented Programming, Multithreading, API Integration, Data Mining
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=regino-pan-a-i&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=regino-pan-a-i&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 
 ## 📌 Featured Projects
 ### 🎓 Class Reviewer Web App *(MERN Stack, Web Scraping)*
@@ -22,6 +31,8 @@ I'm a passionate **Software Engineering** student at **Brigham Young University 
 ### 🖥️ High-Performance Web Scraper *(Python, Selenium, OOP, Multithreading)*
 - Refactored and documented a **Selenium-based web scraper**, implementing **OOP principles and multithreading**.
 - Boosted performance by **500%** in runtime efficiency.
+- 
+
 
 ## 📊 Work Experience
 ### 🔹 Web Analytics Integration Programmer *(BYU-I University Relations)*

@@ -1,13 +1,16 @@
 # Hi there, I'm Andre Regino! 👋
 
-
 ## 💻 About Me
 I'm a passionate **Software Engineering** student at **Brigham Young University - Idaho** with a **3.95 GPA**, graduating in **December 2025**. I love building applications that solve real-world problems and enhance user experiences. My expertise spans full-stack web development, mobile app development, and data analytics.
 
 ## 🚀 Technical Skills
-- **Languages**: Python, C++, JavaScript, Swift, HTML, CSS, SQL  
-- **Frameworks & Tools**: Node.js, MongoDB, MERN Stack, Selenium, Power BI, ArcGIS, OpenGL  
-- **Concepts**: Object-Oriented Programming, Multithreading, API Integration, Data Mining
+- **Languages**: Python, C++, JavaScript, Swift, Java, HTML, CSS, SQL  
+- **Frameworks & Tools**: Node.js, MongoDB, MERN Stack, Svelte, Spring Boot, Selenium, AWS, Power BI, ArcGIS, OpenGL  
+- **Concepts**: Object-Oriented Programming, Multithreading, Web Development, API Integration, Data Mining/Wrangling, Cloud Computing
+
+## 📜 Certifications
+- **AWS Cloud Practitioner (Certified)**
+- **Java Spring Boot Development (In Progress)**
 
 ###
 
@@ -19,10 +22,21 @@ I'm a passionate **Software Engineering** student at **Brigham Young University 
 ###
 
 ## 📌 Featured Projects
-### 🎓 Class Reviewer Web App *(MERN Stack, Web Scraping)*
+
+### 🛒 Trading Card E-Commerce Site *(Spring Boot, MongoDB, Java, Email, Threads)*
+- Built a full-stack Java web app for users to **buy trading cards**, integrating frontend and backend with **Spring Boot**.
+- Connected to a **MongoDB database**, supported **cart functionality**, and triggered **email order confirmations**.
+- Implemented **threads** to periodically clean up abandoned carts, enhancing performance and storage management.
+
+### 🧠 Chrome Extension for Reading Accessibility *(HackUSU 2025 – JavaScript, AI, HTML/CSS)*
+- Designed and deployed a **Chrome extension** in 24 hours to enhance **reading accessibility** and focus.
+- Features include **distraction filtering**, **reading modes**, **AI-powered Q&A**, and **1-minute AI summaries**.
+- Reinforced skills in **rapid prototyping**, **user empathy**, and **real-time AI integration**.
+
+### 🎓 Class Reviewer Web App *(MERN Stack, Web Scraping, AWS)*
 - Developed a **full-stack web app** enabling students to **rate classes** based on satisfaction, time commitment, and difficulty.
-- Created a **Chrome extension** that **integrates ratings into the school’s class planning website**.
-- Improved class planning efficiency by **35%**.
+- Created a **Chrome extension** that integrates ratings into the school’s class planning website.
+- Deployed to **AWS**, achieving a **35% improvement** in class planning efficiency.
 
 ### 🎬 Movie Theater Finder *(iOS, Swift, APIs)*
 - Built an **iOS app** that fetches **nearby theaters, movie details, and showtimes**.
@@ -31,10 +45,9 @@ I'm a passionate **Software Engineering** student at **Brigham Young University 
 ### 🖥️ High-Performance Web Scraper *(Python, Selenium, OOP, Multithreading)*
 - Refactored and documented a **Selenium-based web scraper**, implementing **OOP principles and multithreading**.
 - Boosted performance by **500%** in runtime efficiency.
-- 
 
+## 💼 Work Experience
 
-## 📊 Work Experience
 ### 🔹 Web Analytics Integration Programmer *(BYU-I University Relations)*
 - Increased scraper performance by **500%** through **multithreading and OOP refactoring**.
 - Improved **website engagement by 40%** via data-driven insights.

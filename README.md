@@ -1,7 +1,7 @@
 # Hi there, I'm Andre Regino! 👋
 
 ## 💻 About Me
-I'm a passionate **Software Engineering** student at **Brigham Young University - Idaho** with a **3.95 GPA**, graduating in **December 2025**. I love building applications that solve real-world problems and enhance user experiences. My expertise spans full-stack web development, mobile app development, and data analytics.
+I'm a passionate **Software Engineering** student at **Brigham Young University - Idaho** with a **3.96 GPA**, graduating in **December 2025**. I love building applications that solve real-world problems and enhance user experiences. My expertise spans full-stack web development, mobile app development, and data analytics.
 
 ## 🚀 Technical Skills
 - **Languages**: Python, C++, JavaScript, Swift, Java, HTML, CSS, SQL  
